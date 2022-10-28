@@ -1,0 +1,10 @@
+.h1{
+    font-size: 200px;
+}
+body{
+    text-align: center;
+        background-color: rgb(212, 57, 57);
+}
+.bc{
+    background-color: blue;
+}
